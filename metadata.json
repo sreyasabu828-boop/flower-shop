@@ -1,0 +1,6 @@
+{
+  "name": "Digital Conservatory",
+  "description": "An exquisite botanical boutique and digital florist catalog supporting curated seasonal flower arrangements, search queries, custom inventory entries, and detailed shopping checkout.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
